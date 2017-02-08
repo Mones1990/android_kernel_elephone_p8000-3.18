@@ -48,9 +48,9 @@
 #define SW_CALIBRATION
 
 /*----------------------------------------------------------------------------*/
-#define BMA222_AXIS_X          0
-#define BMA222_AXIS_Y          1
-#define BMA222_AXIS_Z          2
+#define BMA222_AXIS_Z          0
+#define BMA222_AXIS_X          1
+#define BMA222_AXIS_Y          2
 #define BMA222_DATA_LEN        6
 #define BMA222_DEV_NAME        "BMA222"
 /*----------------------------------------------------------------------------*/
