@@ -2629,7 +2629,7 @@ static void lcm_udelay(uint32_t us)
 static void lcm_mdelay(uint32_t ms)
 {
 	// fixed wakeup lagg
-	udelay(ms*120);
+	udelay(ms*600);
 }
 
 static void lcm_rar(uint32_t ms)
